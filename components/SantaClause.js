@@ -6,7 +6,7 @@ export default class SantaAnimation extends React.Component{
         return(
             <LottieView
             source= {require('../assets/logo.json')}
-            style= {{width:'60%'}}
+            style= {{width:'40%'}}
             autoPlay loop 
             >
             </LottieView>
